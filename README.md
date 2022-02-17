@@ -1,16 +1,14 @@
-### Hi there 👋
 
-<!--
-**santigp258/santigp258** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align='left' src='https://portfolio-santi.herokuapp.com/android-icon-192x192.png' width='20%'/> 
 
-Here are some ideas to get you started:
+<h1 align="left">Santiago Guerrero</h1>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align="left">
+  
+</h3>
+Welcome to my github profile!
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=260CBC&width=750&lines=I%20like%20code)](https://git.io/typing-svg)
+
+
+
