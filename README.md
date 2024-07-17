@@ -1,6 +1,4 @@
 
-<img align='left' src='https://santigp258.com/android-icon-192x192.png' width='20%'/> 
-
 <h1 align="left">Santiago Guerrero</h1>
 
 <h3 align="left">
